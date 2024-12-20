@@ -3,12 +3,12 @@ import {
   Facebook,
   Instagram,
   KeyboardArrowDown,
-  KeyboardArrowRight,
+
   LightMode,
   Twitter,
 } from "@mui/icons-material";
 import {
-  Box,
+
   Container,
   IconButton,
   List,
